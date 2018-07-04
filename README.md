@@ -3,7 +3,7 @@
 # Descrição
 
 * Modelo de request em PHP para a API de consulta de status.
-* Basta informar nos parâmetros e-mail para testar.
+* Basta informar no parâmetro **"Email"** o e-mail para testar.
 * Já está incluso as credenciais de testes para sandbox e produção.
 
 # Requisitos  

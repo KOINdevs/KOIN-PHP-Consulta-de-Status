@@ -2,7 +2,7 @@
 
 # Descrição
 
-* Modelo de request em PHP para a API de geração de pedidos.
+* Modelo de request em PHP para a API de consulta de status.
 * Basta informar nos parâmetros e-mail para testar.
 * Já está incluso as credenciais de testes para sandbox e produção.
 
